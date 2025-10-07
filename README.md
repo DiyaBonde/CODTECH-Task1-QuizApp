@@ -25,22 +25,21 @@ Frontend Developer Intern at **CODTECH Pvt. Ltd.**
 
 ### Screenshots
 
-#### 1️⃣ Start Screen
-![Start Screen](Screenshot 2025-10-07 211745.png)
+#### Start Screen
+![Start Screen](screenshot1.png)
 
-#### 2️⃣ Quiz Question Screen
-![Question Screen](Screenshot 2025-10-07 211832.png)
+#### Quiz Question Screen
+![Question Screen](screenshot2.png)
 
-#### 3️⃣ Answer Selected / Feedback
-![Answer Feedback](Screenshot 2025-10-07 211849.png)
+#### Answer Selected / Feedback
+![Answer Feedback](screenshot3.png)
 
-#### 4️⃣ Quiz Result / Score
-![Result Screen](Screenshot 2025-10-07 211936.png)
+#### Quiz Result / Score
+![Result Screen](screenshot4.png)
 
-#### 5️⃣ Restart Quiz Option
-![Restart Screen](Screenshot 2025-10-07 211950.png)
+#### Restart Quiz Option
+![Restart Screen](screenshot5.png)
 
----
 
 ### GitHub Repository Link
 > https://github.com/DiyaBonde/CODTECH-Task1-QuizApp
