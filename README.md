@@ -1,45 +1,41 @@
 # CODTECH Internship - Task 1: Quiz App
 
-### Project Description
-An interactive quiz application built using **HTML**, **CSS**, and **JavaScript**.  
-Users can answer multiple-choice questions, receive **instant feedback**, and view their **final score**.  
-The app is fully **responsive** and works smoothly on desktop, tablet, and mobile devices.
-
-### Features
-- Attractive and modern responsive UI  
-- Instant correct/wrong answer highlighting  
-- Dynamic question loading  
-- Next, Submit, and Restart functionality  
-- Clean and readable code with minimal comments for clarity  
-
-### Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript (ES6)
-
-### Developer
-**Diya Kishor Bonde**  
-Frontend Developer Intern at **CODTECH Pvt. Ltd.**
+## Overview
+This project is developed as part of the CODTECH Internship Task 1.  
+It is a **Quiz Application** built using **HTML, CSS, and JavaScript** that allows users to attempt a quiz, get instant feedback on answers, view their score, and restart the quiz.
 
 ---
 
-### Screenshots
+## Features
+- Display multiple-choice quiz questions.
+- Provide **instant feedback** for each answer selected.
+- Show **quiz results and score** at the end.
+- Option to **restart the quiz** and try again.
 
-#### Start Screen
-![Start Screen](screenshot1.png)
+---
 
-#### Quiz Question Screen
-![Question Screen](screenshot2.png)
+## Screenshots
 
-#### Answer Selected / Feedback
+### Quiz Question Screen
+![Quiz Question Screen](screenshot1.png)
+
+### Answer Selected / Feedback
 ![Answer Feedback](screenshot3.png)
 
-#### Quiz Result / Score
+### Quiz Result / Score
 ![Result Screen](screenshot4.png)
 
-#### Restart Quiz Option
+### Restart Quiz Option
 ![Restart Screen](screenshot5.png)
 
+---
 
-### GitHub Repository Link
-> https://github.com/DiyaBonde/CODTECH-Task1-QuizApp
+## Technologies Used
+- **HTML5** – For the structure of the quiz application.
+- **CSS3** – For styling and layout.
+- **JavaScript** – For quiz logic, score calculation, and dynamic feedback.
+
+---
+
+
+git clone https://github.com/DiyaBonde/CODTECH-Task1-QuizApp.git
