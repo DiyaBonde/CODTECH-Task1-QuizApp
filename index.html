@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Interactive Quiz App | CODTECH Internship</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+
+    <!-- Start Screen -->
+    <div id="start-screen" class="screen active">
+      <h1>🌟 Welcome to QuickQuiz</h1>
+      <p>Test your Web Development knowledge in a fun way!</p>
+      <button id="start-btn" class="btn primary">Start Quiz</button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="screen hidden">
+      <div class="quiz-header">
+        <h2 id="question">Question</h2>
+        <p id="progress">Question 1 of 5</p>
+      </div>
+      <div id="answer-buttons" class="btn-grid"></div>
+      <div class="quiz-controls">
+        <button id="submit-btn" class="btn secondary hidden">Submit</button>
+        <button id="next-btn" class="btn primary hidden">Next</button>
+      </div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-screen" class="screen hidden">
+      <h2>🎉 Quiz Completed!</h2>
+      <p id="score"></p>
+      <button id="restart-btn" class="btn primary">Restart Quiz</button>
+    </div>
+
+    <footer>
+      <p>Developed by <b>Diya Kishor Bonde</b> | Frontend Intern @ CODTECH Pvt. Ltd.</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
